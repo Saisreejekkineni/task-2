@@ -1,6 +1,6 @@
 # task-2
 NAME : J SAI SREE
-INTERN ID : sMI72615
+INTERN ID : SMI72615
 DOMAIN : FULL STACK WEB DEVELOPMENT
 DURATION : JUN 1 - AUG 1
 Overview of the Unique Basic Portfolio Website
